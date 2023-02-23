@@ -4,6 +4,7 @@ metadata:
   name: blockchain-api-test-pipeline
   labels:
     apps.tanzu.vmware.com/pipeline: test
+    apps.tanzu.vmware.com/db: postgres
 spec:
   params:
     - name: source-url
