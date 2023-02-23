@@ -55,7 +55,7 @@ public class CustomerProfileController {
             ),
             @ApiResponse(
                     responseCode = "400",
-                    description = "Passed customer profile is invalid."
+                    description = "Passed customer profile is invalid!"
             )
     })
     @PostMapping("")
