@@ -40,4 +40,4 @@ spec:
     git:
       ref:
         branch: main
-      url: https://github.com/cdelashmutt-pivotal/blockchain-api
+      url: https://github.com/nitashav-vmw/blockchain-api
